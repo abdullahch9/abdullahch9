@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer at NexSol Tech.<br>Based in Lahore, Pakistan.<br>HTML, CSS, JavaScript, React Js, NEXT Js, Mongo DB, Express JS, Node Js
+Software Engineer at NexSol Tech.<br>Based in Lahore, Pakistan.<br>HTML, CSS, JavaScript, React Js, NEXT Js, Mongo DB, Express JS, Node Js, and MySQL
 
 
 ## 🌐 Socials:
