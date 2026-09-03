@@ -16,14 +16,14 @@
 
 <br><br>
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=08A045&labelColor=0D1117" alt="GitHub Followers">
+<a href="https://github.com/abdullahch9">
+  <img src="https://img.shields.io/github/followers/abdullahch9?label=Followers&style=for-the-badge&color=08A045&labelColor=0D1117" alt="GitHub Followers">
 </a>
 <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge&color=08A045&labelColor=0D1117" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/stars/abdullahch9?affiliations=OWNER&style=for-the-badge&color=08A045&labelColor=0D1117" alt="GitHub Stars">
 </a>
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=08A045&label=PROFILE+VIEWS" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=abdullahch9&style=for-the-badge&color=08A045&label=PROFILE+VIEWS" alt="Profile Views">
 </a>
 
 <br><br>
@@ -154,17 +154,17 @@ I enjoy working across the full stack — from designing polished interfaces to 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=08A045&fire=8B6E4F&currStreakLabel=08A045&sideLabels=08A045&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B6E4F" width="80%" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahch9&theme=dark&hide_border=true&background=0D1117&ring=08A045&fire=8B6E4F&currStreakLabel=08A045&sideLabels=08A045&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B6E4F" width="80%" alt="GitHub Streak">
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=08A045&line=08A045&point=8B6E4F&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahch9&bg_color=0D1117&color=08A045&line=08A045&point=8B6E4F&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph">
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=08A045&icon_color=8B6E4F&text_color=FFFFFF" height="170" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=abdullahch9&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=08A045&icon_color=8B6E4F&text_color=FFFFFF" height="170" alt="GitHub Stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=08A045&text_color=FFFFFF" height="170" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahch9&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=08A045&text_color=FFFFFF" height="170" alt="Top Languages">
 
 </div>
 
@@ -176,7 +176,7 @@ I enjoy working across the full stack — from designing polished interfaces to 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution Snake">
+<img src="https://raw.githubusercontent.com/abdullahch9/abdullahch9/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution Snake">
 
 </div>
 
@@ -218,29 +218,21 @@ jobs:
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="https://linkedin.com/in/mabdullahrashid">
   <img src="https://img.shields.io/badge/LinkedIn-08A045?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 &nbsp;
-<a href="https://x.com/YOUR_USERNAME">
+<!-- <a href="https://x.com/abdullahch9">
   <img src="https://img.shields.io/badge/X-08A045?style=for-the-badge&logo=x&logoColor=white" alt="X">
-</a>
+</a> -->
 &nbsp;
-<a href="https://instagram.com/YOUR_USERNAME">
+<a href="https://instagram.com/abdullahhverse">
   <img src="https://img.shields.io/badge/Instagram-08A045?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
 <br><br>
-
-<a href="https://tiktok.com/@YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/TikTok-08A045?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
-</a>
 &nbsp;
-<a href="https://youtube.com/@YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/YouTube-08A045?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-</a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:YOUR_EMAIL@iamabrashid4@gmail.com">
   <img src="https://img.shields.io/badge/Email-08A045?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
